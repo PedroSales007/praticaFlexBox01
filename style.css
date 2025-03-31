@@ -29,10 +29,12 @@ h1 {
     border-radius: 50px;
     text-align: center;
 }
+
 .f1{
 align-self: flex-start;
 order:1
 }
+
 .f2{
 align-self: flex-end;
 order: 3;
